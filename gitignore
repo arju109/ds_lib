@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+lib/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs output
+docs/html/
+
+# Binaries
+*.o
+*.a
+*.out
