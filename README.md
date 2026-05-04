@@ -153,7 +153,7 @@ gcc -Iinclude main.c -Llib -lds -o my_program
   [PASS] new list is empty
   ...
 
-Results: 45/45 passed  all tests passed!
+Results: 81/81 passed  all tests passed!
 ========================================
 ```
 
