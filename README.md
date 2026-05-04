@@ -1,4 +1,9 @@
-# Data Structures Library in C
+# Data Structures Library in C 
+## Highlights
+- Fully generic (void*)
+- Zero memory leaks (Valgrind verified)
+- Modular production-style design
+- Custom test framework (no external dependencies)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Language](https://img.shields.io/badge/language-C11-blue)
