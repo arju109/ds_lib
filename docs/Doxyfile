@@ -1,0 +1,11 @@
+PROJECT_NAME           = "Data Structures Library in C"
+PROJECT_NUMBER         = 1.0.0
+PROJECT_BRIEF          = "Generic, well-tested data structures: Linked List, Stack, Queue, HashMap, BST"
+OUTPUT_DIRECTORY       = docs/html
+INPUT                  = include/ src/
+RECURSIVE              = NO
+EXTRACT_ALL            = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = .
+QUIET                  = YES
