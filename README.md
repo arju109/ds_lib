@@ -68,7 +68,7 @@ ds_lib/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ds_lib.git
+git clone https://github.com/arju109/ds_lib.git
 cd ds_lib
 
 # Build the static library (lib/libds.a)
