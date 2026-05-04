@@ -176,5 +176,6 @@ MIT — free to use in any project.
 ---
 
 ## Author
-
-**[Your Name]** — [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Arju Maiya  
+B.Tech, IIT Gandhinagar  
+GitHub: https://github.com/arju109 
