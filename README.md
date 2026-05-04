@@ -139,7 +139,9 @@ gcc -Iinclude main.c -Llib -lds -o my_program
 - **BST uses in-order successor** for deleting nodes with two children
 
 ---
+## Test Results
 
+![Test Results](images/test_results.png)
 ## Running Tests
 
 ```
